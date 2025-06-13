@@ -25,8 +25,8 @@ This project focuses on building a **Sentiment Analysis** model that can accurat
 ## 📊 Dataset
 
 The dataset used in this project contains text samples labeled with sentiment categories. You can use:
-- [IMDB Movie Reviews](https://ai.stanford.edu/~amaas/data/sentiment/)
-- [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
+- [IMDB Movie Reviews]([https://ai.stanford.edu/~amaas/data/sentiment/](https://www.kaggle.com/code/mmmarchetti/play-store-sentiment-analysis-of-user-reviews/input?select=apps.csv))
+- [Twitter US Airline Sentiment]([https://www.kaggle.com/crowdflower/twitter-airline-sentiment](https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset))
 - Or any custom dataset of your choice
 
 ## ⚙️ Features
